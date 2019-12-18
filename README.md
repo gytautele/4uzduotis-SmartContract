@@ -6,8 +6,9 @@ Pagrindinis šios užduoties tikslas yra sukurti išmaniąją sutartį (angl. sm
 
 ## Verslo modelis
 
+![GitHub Logo](/img/Verslomodelis.jpg)
+
 ## Minimum interface design
 
-
-
+![GitHub Logo](/img/screen.jpg)
 
