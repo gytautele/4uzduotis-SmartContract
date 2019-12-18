@@ -12,3 +12,9 @@ Pagrindinis šios užduoties tikslas yra sukurti išmaniąją sutartį (angl. sm
 
 ![GitHub Logo](/img/screen.jpg)
 
+## Test
+
+![GitHub Logo](/img/Test.jpg)
+
+![GitHub Logo](/img/Test1.jpg)
+
